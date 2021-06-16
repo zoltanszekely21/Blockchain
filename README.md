@@ -80,7 +80,7 @@ New transaction example:
 }
 
 
-If successfull, we will get the `{ note: 'Transaction created and broadcast successfully.' }` output in Postman and our transaction will appear in the chain at pendingTransactions.
+If successful, we will get the `{ note: 'Transaction created and broadcast successfully.' }` output in Postman and our transaction will appear in the chain at pendingTransactions.
 
 Any new transaction will be included in the next newly mined block.
 
